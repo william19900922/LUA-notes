@@ -1,0 +1,13 @@
+﻿生成启动时间为 2017/9/11 18:25:52。
+     1>项目“F:\Personal Files\vs_projects\libforlua\TestLua\TestLua.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\Program Files New\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"E:\Program Files New\Visual Leak Detector\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Testlua.cpp
+         Testlua.cpp
+       Link:
+         E:\Program Files New\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Personal Files\vs_projects\libforlua\Debug\TestLua.exe" /INCREMENTAL /NOLOGO /LIBPATH:"E:\Program Files New\Visual Leak Detector\lib\Win32" lua51.lib lua5.1.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\Personal Files\vs_projects\libforlua\Debug\TestLua.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Personal Files\vs_projects\libforlua\Debug\TestLua.lib" /MACHINE:X86 Debug\Testlua.obj
+         TestLua.vcxproj -> F:\Personal Files\vs_projects\libforlua\Debug\TestLua.exe
+     1>已完成生成项目“F:\Personal Files\vs_projects\libforlua\TestLua\TestLua.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.10
